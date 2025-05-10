@@ -41,38 +41,38 @@ DevTasker/
 
 ### 1. Clone the Repository
 
-\`\`\`bash
+```bash
 git clone https://github.com/YOUR_USERNAME/DevTasker.git
 cd DevTasker
-\`\`\`
+```
 
 ### 2. Build the Project
 
-\`\`\`bash
+```bash
 dotnet restore
 dotnet build
-\`\`\`
+```
 
 ### 3. Run Database Migrations
 
-\`\`\`bash
+```bash
 dotnet ef migrations add InitialCreate -p DevTasker.Infrastructure -s DevTasker.Api
 dotnet ef database update -p DevTasker.Infrastructure -s DevTasker.Api
-\`\`\`
+```
 
 ### 4. Start the API
 
-\`\`\`bash
+```bash
 dotnet run --project DevTasker.Api
-\`\`\`
+```
 
 ### 5. Open Swagger UI
 
 Once the app is running, visit:
 
-\`\`\`
+```
 http://localhost:<your-port>/swagger
-\`\`\`
+```
 
 _Default port is printed in the terminal, e.g. \`http://localhost:5238/swagger\`_
 
@@ -82,20 +82,20 @@ _Default port is printed in the terminal, e.g. \`http://localhost:5238/swagger\`
 
 ### Create a Task
 
-\`\`\`http
+```http
 POST /tasks
-\`\`\`
+```
 
 **Request Body:**
 
-\`\`\`json
+```json
 {
   "title": "Finish README",
   "description": "Add docs to the DevTasker repo",
   "dueDate": "2025-05-15T18:00:00",
   "isCompleted": false
 }
-\`\`\`
+```
 
 ---
 
