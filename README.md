@@ -26,14 +26,14 @@
 
 ## Project Structure
 
-\`\`\`
+```
 DevTasker/
 ├── DevTasker.Api/             # ASP.NET Core API (entry point)
 ├── DevTasker.Domain/          # Entity models and interfaces
 ├── DevTasker.Infrastructure/  # Data access (EF Core, DbContext, Repositories)
 ├── DevTasker.Application/     # Reserved for business logic (currently minimal)
 └── DevTasker.sln              # Solution file
-\`\`\`
+```
 
 ---
 
