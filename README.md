@@ -111,22 +111,6 @@ POST /tasks
 
 ---
 
-## Screenshot
-
-Add a screenshot of your Swagger UI here:
-
-\`\`\`
-docs/swagger-preview.png
-\`\`\`
-
-Markdown embed:
-
-\`\`\`markdown
-![Swagger UI](docs/swagger-preview.png)
-\`\`\`
-
----
-
 ## Author
 
 **Garv Singh**  
