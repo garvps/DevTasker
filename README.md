@@ -103,11 +103,11 @@ POST /tasks
 
 | Method | Route         | Description        |
 |--------|---------------|--------------------|
-| GET    | \`/tasks\`      | Get all tasks      |
-| GET    | \`/tasks/{id}\` | Get task by ID     |
-| POST   | \`/tasks\`      | Create new task    |
-| PUT    | \`/tasks/{id}\` | Update existing    |
-| DELETE | \`/tasks/{id}\` | Delete task        |
+| GET    | \/tasks\      | Get all tasks      |
+| GET    | \/tasks/{id}\ | Get task by ID     |
+| POST   | \/tasks\      | Create new task    |
+| PUT    | \/tasks/{id}\ | Update existing    |
+| DELETE | \/tasks/{id}\ | Delete task        |
 
 ---
 
