@@ -1,11 +1,10 @@
-cat << 'EOF' > README.md
-# 🧠 DevTasker
+# DevTasker
 
 **DevTasker** is a clean and extensible task management REST API built with ASP.NET Core (.NET 9). Designed as a learning and portfolio project, it demonstrates best practices in building scalable backend systems using minimal APIs, Entity Framework Core (SQLite), Swagger, and clean architecture principles.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Full CRUD support for tasks (`GET`, `POST`, `PUT`, `DELETE`)
 - Minimal API style (.NET 9)
@@ -16,7 +15,7 @@ cat << 'EOF' > README.md
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Language**: C# (.NET 9)
 - **Framework**: ASP.NET Core Minimal API
@@ -25,7 +24,7 @@ cat << 'EOF' > README.md
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 \`\`\`
 DevTasker/
@@ -38,7 +37,7 @@ DevTasker/
 
 ---
 
-## 🧪 How to Run Locally
+## How to Run Locally
 
 ### 1. Clone the Repository
 
@@ -79,7 +78,7 @@ _Default port is printed in the terminal, e.g. \`http://localhost:5238/swagger\`
 
 ---
 
-## 🧠 Sample API Request
+## Sample API Request
 
 ### Create a Task
 
@@ -112,7 +111,7 @@ POST /tasks
 
 ---
 
-## 🖼 Screenshot
+## Screenshot
 
 Add a screenshot of your Swagger UI here:
 
@@ -128,7 +127,7 @@ Markdown embed:
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 **Garv Singh**  
 Intern-ready full stack developer  
@@ -136,7 +135,7 @@ _"Proven ability to learn fast and build right."_
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License. Use it freely for learning, teaching, or building cool stuff.
 EOF
