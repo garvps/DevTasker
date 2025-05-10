@@ -131,11 +131,10 @@ Markdown embed:
 
 **Garv Singh**  
 Intern-ready full stack developer  
-_"Proven ability to learn fast and build right."_
 
 ---
 
 ## License
 
-This project is licensed under the MIT License. Use it freely for learning, teaching, or building cool stuff.
+This project is licensed under the MIT License.
 EOF
