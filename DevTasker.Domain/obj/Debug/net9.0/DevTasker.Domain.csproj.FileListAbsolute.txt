@@ -1,0 +1,11 @@
+/Users/garvsingh/DevTasker/DevTasker.Domain/bin/Debug/net9.0/DevTasker.Domain.deps.json
+/Users/garvsingh/DevTasker/DevTasker.Domain/bin/Debug/net9.0/DevTasker.Domain.dll
+/Users/garvsingh/DevTasker/DevTasker.Domain/bin/Debug/net9.0/DevTasker.Domain.pdb
+/Users/garvsingh/DevTasker/DevTasker.Domain/obj/Debug/net9.0/DevTasker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/garvsingh/DevTasker/DevTasker.Domain/obj/Debug/net9.0/DevTasker.Domain.AssemblyInfoInputs.cache
+/Users/garvsingh/DevTasker/DevTasker.Domain/obj/Debug/net9.0/DevTasker.Domain.AssemblyInfo.cs
+/Users/garvsingh/DevTasker/DevTasker.Domain/obj/Debug/net9.0/DevTasker.Domain.csproj.CoreCompileInputs.cache
+/Users/garvsingh/DevTasker/DevTasker.Domain/obj/Debug/net9.0/DevTasker.Domain.dll
+/Users/garvsingh/DevTasker/DevTasker.Domain/obj/Debug/net9.0/refint/DevTasker.Domain.dll
+/Users/garvsingh/DevTasker/DevTasker.Domain/obj/Debug/net9.0/DevTasker.Domain.pdb
+/Users/garvsingh/DevTasker/DevTasker.Domain/obj/Debug/net9.0/ref/DevTasker.Domain.dll

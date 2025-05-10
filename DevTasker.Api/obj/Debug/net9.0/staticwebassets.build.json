@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "x5V+i2UdTVuk5qLZGHahbweWkfmbQCo8j4HPmI8r2Vs=",
+  "Source": "DevTasker.Api",
+  "BasePath": "_content/DevTasker.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

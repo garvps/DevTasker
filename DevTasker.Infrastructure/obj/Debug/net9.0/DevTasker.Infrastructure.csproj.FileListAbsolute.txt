@@ -1,0 +1,17 @@
+/Users/garvsingh/DevTasker/DevTasker.Infrastructure/bin/Debug/net9.0/DevTasker.Infrastructure.deps.json
+/Users/garvsingh/DevTasker/DevTasker.Infrastructure/bin/Debug/net9.0/DevTasker.Infrastructure.runtimeconfig.json
+/Users/garvsingh/DevTasker/DevTasker.Infrastructure/bin/Debug/net9.0/DevTasker.Infrastructure.dll
+/Users/garvsingh/DevTasker/DevTasker.Infrastructure/bin/Debug/net9.0/DevTasker.Infrastructure.pdb
+/Users/garvsingh/DevTasker/DevTasker.Infrastructure/bin/Debug/net9.0/DevTasker.Domain.dll
+/Users/garvsingh/DevTasker/DevTasker.Infrastructure/bin/Debug/net9.0/DevTasker.Domain.pdb
+/Users/garvsingh/DevTasker/DevTasker.Infrastructure/obj/Debug/net9.0/DevTasker.Infrastructure.csproj.AssemblyReference.cache
+/Users/garvsingh/DevTasker/DevTasker.Infrastructure/obj/Debug/net9.0/DevTasker.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/garvsingh/DevTasker/DevTasker.Infrastructure/obj/Debug/net9.0/DevTasker.Infrastructure.AssemblyInfoInputs.cache
+/Users/garvsingh/DevTasker/DevTasker.Infrastructure/obj/Debug/net9.0/DevTasker.Infrastructure.AssemblyInfo.cs
+/Users/garvsingh/DevTasker/DevTasker.Infrastructure/obj/Debug/net9.0/DevTasker.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/garvsingh/DevTasker/DevTasker.Infrastructure/obj/Debug/net9.0/DevTaske.CDB9F037.Up2Date
+/Users/garvsingh/DevTasker/DevTasker.Infrastructure/obj/Debug/net9.0/DevTasker.Infrastructure.dll
+/Users/garvsingh/DevTasker/DevTasker.Infrastructure/obj/Debug/net9.0/refint/DevTasker.Infrastructure.dll
+/Users/garvsingh/DevTasker/DevTasker.Infrastructure/obj/Debug/net9.0/DevTasker.Infrastructure.pdb
+/Users/garvsingh/DevTasker/DevTasker.Infrastructure/obj/Debug/net9.0/DevTasker.Infrastructure.genruntimeconfig.cache
+/Users/garvsingh/DevTasker/DevTasker.Infrastructure/obj/Debug/net9.0/ref/DevTasker.Infrastructure.dll
